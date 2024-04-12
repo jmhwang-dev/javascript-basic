@@ -1,0 +1,28 @@
+ECMAScript 1 in 1997
+AJAX - 2004
+jQuery
+JIT: just-in-time compilation. 자바스크립트를 실행하는 엔진
+ECMAScript 5 in 2009
+ECMASCript 6 in 2015 : js 표준 정의
+ECMAScript 10 in 2019
+
+브라우저별 JS를 사용하기 위한 다양한 엔진
+V8 - Chrome, Edge
+JSCore - Safari
+SpiderMonkey - Firefox
+
+BABEL: 최신 버전의 ECMAScript로 개발한 내용이 다양한 브라우저에서도 동작할 수 있도록 
+사용자에게 배포할 때 ECMaScript 4나 5로 변환해서 생성해주는 transcompiler
+
+
+SPA (Single Page Application)
+하나의 페이지에서 부분적으로 필요한 부분만 업데이트하는 것이 트렌드인데
+ex) React, Angular, Vue, 와 같은 프레임워크를 이용해서 SPA를 쉽게 구현할 수 있음
+
+Javascript는 결국 브라우저를 위한, 브라우저에서 동적인 요소를 추가하기 위해 만들어진 언어
+
+NodeJS: V8 엔진을 이용한 백엔드에서 서비스를 구현할 수 있도록 만들어진 엔진
+
+Web Assembly의 등장으로 js 이외의 언어로 웹앱을 만들수 있음
+
+WebAPIs != JS
